@@ -1,6 +1,10 @@
 *.class
+*.classpath
 
 # Package Files #
 *.jar
 *.war
 *.ear
+/config_output.txt
+/.project
+/bin
